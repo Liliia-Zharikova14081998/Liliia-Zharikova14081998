@@ -100,6 +100,14 @@ Responsive e-commerce website developed in a team.
 
 ---
 
+## 🤝 Collaboration & Opportunities
+
+I am currently **open to new job opportunities** as a Junior Fullstack / Frontend Developer. 
+
+I am also interested in participating in **Open Source projects** and web collaborations. If you have a project where I can contribute my skills or if you're looking for a proactive developer for your team — let's talk!
+
+---
+
 ## 📫 How to reach me
 
 - 💼 **LinkedIn:** [liliia-zharikova](https://www.linkedin.com/in/liliia-zharikova)
