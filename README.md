@@ -1,6 +1,8 @@
 
 ## 👋 Hi, I'm Liliia Zharikova
 
+[![Liliia Zharikova profile views](https://u8views.com/api/v1/github/profiles/196928334/views/day-week-month-total-count.svg)](https://u8views.com/github/Liliia-Zharikova14081998)
+
 ### Junior Fullstack Developer | JavaScript | React | Node.js
 
 I am a Junior Fullstack Developer with experience in building responsive and user-friendly web applications on both the client and server side.  
@@ -44,10 +46,10 @@ Fast learner with strong problem-solving skills and a proactive approach to cont
 🔗 [Frontend](https://github.com/AlesssMAK/toolnext-group-project-frontend)  
 🔗 [Backend](https://github.com/AlesssMAK/toolnext-group-project-backend)  
 
-A fullstack truck rental application built in a team using modern frontend and backend technologies.  
-**Tech stack:** Next.js (React with TypeScript), Node.js, Express.js, REST API  
+A collaborative platform for renting and sharing tools built in a team using modern frontend and backend technologies.  
+**Tech stack:** React, Next.js, TypeScript, Node.js, Express.js, MongoDB, REST API.
 **Features:** complex business logic, client–server communication, dynamic UI, API endpoints, data handling, and routing.  
-**Role:** Front-End / Fullstack Developer (team project)
+**Role:** Front-End / Fullstack Developer.
 
 
 ### 🔹 TravelTrucks Rentals (Frontend, Individual Project)
@@ -56,7 +58,7 @@ A fullstack truck rental application built in a team using modern frontend and b
 🔗 [Repository](https://github.com/Liliia-Zharikova14081998/traveltrucks-rentals)  
 
 A frontend application for truck rental management developed independently.  
-**Tech stack:** React / Next.js, JavaScript / TypeScript  
+**Tech stack:** React, Next.js, TypeScript.  
 **Features:** complex UI logic, data handling, routing, responsive design, API integration.
 
 
@@ -66,16 +68,16 @@ A frontend application for truck rental management developed independently.
 🔗 [Repository](https://github.com/Liliia-Zharikova14081998/09-auth)  
 
 A frontend note management application with authentication and protected routes.  
-**Tech stack:** React, Next.js, TypeScript  
+**Tech stack:** React, Next.js, TypeScript.  
 **Features:** authentication UI, protected routes, CRUD operations on the client side.  
-**Deployment:** Vercel
+**Deployment:** Vercel.
 
 
-### 🔹 Node.js REST API (Backend)
+### 🔹 NoteHub (Backend)
 🔗 [Repository](https://github.com/Liliia-Zharikova14081998/nodejs-hw)  
-
+🔗 [Live API](https://notes-app-hw-5.onrender.com/)
 Backend application built with Node.js and Express.  
-**Tech stack:** Node.js, Express.js, MongoDB  
+**Tech stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT.  
 **Features:** REST API, CRUD operations, authentication, controllers, routes, middleware.
 
 This backend can be used as a server-side part for applications like **NoteHub**.
@@ -86,8 +88,9 @@ This backend can be used as a server-side part for applications like **NoteHub**
 
 🔗 [Repository](https://github.com/Liliia-Zharikova14081998/project-group-15)  
 
-Responsive e-commerce website developed in a team.  
-**Role:** Team Lead & Front-End Developer  
+Responsive e-commerce watch store website developed in a team. 
+**Tech stack:** HTML, CSS.
+**Role:** Team Lead & Front-End Developer.  
 **Responsibilities:** team coordination, About Us section, responsive layout.
 
 ---
@@ -114,3 +117,4 @@ I am also interested in participating in **Open Source projects** and web collab
 - 💬 **Telegram:** [@liliia_zharikova](https://t.me/liliia_zharikova)
 - ✉️ **Email:** liliiazharikova14@gmail.com
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Liliia-Zharikova14081998&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
