@@ -76,6 +76,7 @@ A frontend note management application with authentication and protected routes.
 ### 🔹 NoteHub (Backend)
 🔗 [Repository](https://github.com/Liliia-Zharikova14081998/nodejs-hw)  
 🔗 [Live API](https://notes-app-hw-5.onrender.com/)
+
 Backend application built with Node.js and Express.  
 **Tech stack:** Node.js, Express.js, MongoDB, Cloudinary, JWT.  
 **Features:** REST API, CRUD operations, authentication, controllers, routes, middleware.
